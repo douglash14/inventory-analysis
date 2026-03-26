@@ -1,0 +1,21 @@
+timestamp,product_id,product_name,type,quantity
+1210000001,A1,TEST,in,10
+1210000002,A2,Widget Pro,in,7
+1210000003,B1,Blue Pen,out,3
+1210000004,B2,Red Pen,in,0
+1210000005,C1,Notebook A4,out,5
+1210000006,C2,Stapler,in,0
+1210000007,D1,Scissors,out,2
+1210000008,D2,Tape Roll,in,8
+1210000009,E1,Marker Set,out,0
+1210000010,E2,Paper Clip Box,in,6
+1210000011,F1,Rubber Band,out,1
+1210000012,F2,Folder Blue,in,0
+1210000013,##INVALID##,@@@,UNKNOWN,99999
+1210000014,G1,Desk Lamp,,4
+,H1,USB Cable,in,3
+1210000017,I1,Monitor Stand,IN OUT,7
+1210000018,,,,
+1210000019,J1,Keyboard  Wireless,in,-5
+BADINPUT,K1,Mouse Pad,out,2
+1210000021,L1,HDMI Cable,out,0
